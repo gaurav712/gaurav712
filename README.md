@@ -28,8 +28,10 @@
 <h2 align="center">Statistics</h2>
 <h4 align="center">Total contributions</h4>
 
-![](https://raw.githubusercontent.com/gaurav712/github_stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/gaurav712/github_stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/gaurav712/github-stats-generator/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/gaurav712/github-stats-generator/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/gaurav712/github-stats-generator/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/gaurav712/github-stats-generator/master/generated/languages.svg#gh-light-mode-only)
 <h4 align="center">Public contributions</h4>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav712&" alt="gaurav712" />
 
