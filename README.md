@@ -32,7 +32,11 @@
 ![](https://raw.githubusercontent.com/gaurav712/github-stats-generator/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/gaurav712/github-stats-generator/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/gaurav712/github-stats-generator/master/generated/languages.svg#gh-light-mode-only)
+
 <h4 align="center">Public contributions</h4>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav712&" alt="gaurav712" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gaurav712&theme=dark&border_radius=3" />
+  <img src="https://streak-stats.demolab.com?user=gaurav712&border_radius=3" alt="streak stats" />
+</picture>
 
 </div>
